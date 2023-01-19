@@ -24,6 +24,9 @@ This frontend project uses HTML, CSS, Bootstrap, Javascript, Jquery, isotope.
 ```
 git clone https://github.com/rohanmittal163/isotope.js.git
 ```
+### 📦Link
+- `https://isotope.metafizzy.co/`
+
 ## ❤ Contribute
 This project is open source and we are happy to receive contributions. If you would like to contribute, please follow these steps:
 
