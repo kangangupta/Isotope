@@ -1,4 +1,4 @@
-# Isotope.js
+# Image.js
 <p align="center">
   <img src="https://www.8therate.com/wp-content/uploads/2021/09/clone-script-02.png" width="160" />
 </p>
